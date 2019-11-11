@@ -1,0 +1,12 @@
+[Unit]
+Description = Code Server
+
+[Service]
+ExecStart = /usr/local/bin/code-server /root
+Environment="PASSWORD=1234"
+Restart = always
+Type = simple
+
+[Install]
+WantedBy = multi-user.target
+
