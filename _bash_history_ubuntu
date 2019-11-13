@@ -1,0 +1,99 @@
+pwd
+wget https://github.com/cdr/code-server/releases/download/2.1688-vsc1.39.2/code-server2.1688-vsc1.39.2-linux-x64.tar.gz
+wget https://github.com/cdr/code-server/releases/download/2.1688-vsc1.39.2/code-server2.1688-vsc1.39.2-linux-x86_64.tar.gz
+pwd
+ls
+ls -l
+tar -xvzf code-server2.1688-vsc1.39.2-linux-x86_64.tar.gz
+ls -l
+cd code-server2.1688-vsc1.39.2-linux-x86_64/
+pwd
+./code-server 
+cd code-server2.1688-vsc1.39.2-linux-x86_64/
+./code-server 
+cd code-server2.1688-vsc1.39.2-linux-x86_64/
+./code-server 
+cd code-server2.1688-vsc1.39.2-linux-x86_64/
+ps -ef 
+
+./code-server 
+sudo su
+cd
+pwd
+ll
+vo
+vi codeserver.sh
+clear
+history
+ll
+pwd
+ll
+vi .profile 
+ll
+cat .bashrc 
+cd code-server2.1688-vsc1.39.2-linux-x86_64/
+./code-server 
+sudo su
+whoami
+ll
+cd
+ll
+ll /opt/
+/opt/codeserver.sh 
+cat /opt/codeserver.sh 
+]sudo vi /opt/codeserver.sh 
+]sudo su vi /opt/codeserver.sh 
+sudo su
+cat /opt/codeserver.sh 
+ll /home/ubunyu/code-server2.1688-vsc1.39.2-linux-x86_64
+ll /homr/ubunyu
+ll /home/ubunyu
+pwd
+ll /home/ubuntu
+vi /opt/codeserver.sh 
+su
+c
+sudo su
+/opt/codeserver.sh 
+systemctl status codeserver.service 
+systemctl start codeserver.service 
+sudo su
+env
+sudo su
+ll
+vi .profile 
+vi .bashrc 
+sudo su
+sudo su vi /etc/environment 
+sudo su
+exit
+env
+exit
+sudo su
+cd
+cd code-server2.1688-vsc1.39.2-linux-x86_64/
+ll
+./code-server --allow-http --no-auth
+sudo su
+exit
+sudo su
+exit
+sudo su
+exit
+systemd status codeserver
+systemctl status codeserver.service 
+cat /opt/codeserver.sh 
+sudo su
+ifconfig
+sudo su
+exit
+sudo su
+ll
+unzip code.zip 
+sudo apt install unzip
+ll
+unzip code.zip 
+ll
+cd code
+ll
+sudo su

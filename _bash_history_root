@@ -1,0 +1,231 @@
+pwd
+ls /
+ll
+ll /
+ll /opt/
+ll / -a
+ll /opt/ -a
+exit
+cd /opt
+pw
+d
+pwd
+vi codeserver.sh
+ll
+cat codeserver.sh 
+ll
+/home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64/code-server 
+cd /etc/systemd/system
+ll
+vi codeserver.service
+ll
+cat codeserver.service 
+systemctl enable codeserver.service 
+systemctl start codeserver.service 
+systemctl status codeserver.service 
+/opt/cod
+cd /
+pwd
+exit
+cd /
+owd
+pwd
+ll
+journalctl 
+ll /opt/
+chmod 775 /opt/codeserver.sh 
+ll /opt/
+systemctl status codeserver.service 
+systemctl restart codeserver.service 
+systemctl status codeserver.service 
+date
+cd /home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64
+./code-server 
+ll
+./code-server 
+exit
+vi /opt/codeserver.sh 
+cat /opt/codeserver.sh 
+exit
+vi /opt/codeserver.sh 
+exit
+systemctl restart codeserver.service 
+systemctl status codeserver.service 
+cd
+ll
+vi .profile 
+cat .profile 
+env
+exit
+env
+vi .profile 
+exit
+systemctl status codeserver.service 
+cd
+pwd
+tail -f /var/log/
+tail -f /var/log/journal/9e30e1cd6a204a70b6f3d717ee1211bd/system.journal 
+systemctl status codeserver.service 
+vi /etc/environment 
+clear
+cat /etc/environmen 
+cat /etc/environment 
+exit
+env
+exit
+systemd status code-server2.1688-vsc1.39.2-linux-x86_64
+wxit
+exit
+pwd
+env
+systemctl status codeserver.service 
+systemctl restart codeserver.service 
+systemctl status codeserver.service 
+systemctl restart codeserver.service 
+systemctl status codeserver.service 
+vi /opt/codeserver.sh 
+systemctl status codeserver.service 
+systemctl restart codeserver.service
+systemctl status codeserver.service 
+systemctl stop codeserver.service 
+exit
+vi /opt/codeserver.sh 
+systemctl stop codeserver.service 
+systemctl restart codeserver.service
+systemctl status codeserver.service 
+systemctl stop codeserver.service 
+vi /opt/codeserver.sh 
+/home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64/code-server --no-auth
+cat /opt/codeserver.sh 
+/opt/codeserver.sh 
+exit
+systemctl status codeserver.service 
+systemctl is-enabled codeserver.service 
+exit
+systemctl start codeserver.service 
+systemctl status codeserver.service 
+reboot
+systemctl status codeserver.service 
+/opt/codeserver.sh 
+cat /opt/codeserver.sh 
+home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64/code-server --no-auth
+/home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64/code-server --no-auth
+systemctl status codeserver.service 
+systemctl stop codeserver.service 
+/home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64/code-server --no-auth
+cat /etc/profile
+cat /etc/environment 
+vi /opt/codeserver.sh 
+cat /etc/environment 
+/home/ubuntu/code-server2.1688-vsc1.39.2-linux-x86_64/code-server --no-auth
+/opt/codeserver.sh 
+cat /etc/systemd/system/codeserver.service 
+cat /opt/codeserver.sh 
+exit
+vi /opt/codeserver.sh 
+vi /etc/systemd/system/codeserver.service 
+systemctl status codeserver
+systemctl restart codeserver
+systemctl stop codeserver
+systemctl daemon-reload codeserver
+cd
+pwd
+ll
+systemctl daemon-reload
+systemctl stop codeserver
+systemctl start codeserver
+systemctl status codeserver
+systemctl stop codeserver
+systemctl start codeserver
+exit
+pwd
+ll
+cd code-server2.1688-vsc1.39.2-linux-x86_64
+ll
+cp code-server /usr/local/bin/
+cll /usr/local/bin/co*
+ll /usr/local/bin/co*
+cd
+ll
+vi /etc/systemd/system/codeserver.service 
+systemctl status codeserver
+pwd
+systemctl stop codeserver
+systemctl daemon-reload
+systemctl stop codeserver
+systemctl status codeserver
+cd /etc/systemd/system/
+ll
+mv codeserver.service code-server.service
+ll code*
+vi code-server.service 
+cat code-server.service 
+ll /usr/local/bin/code-server 
+nmcli d show
+ifconfig
+systemctl status codeserver
+systemctl start codeserver
+systemctl daemon-reload
+systemctl start codeserver
+systemctl start code-server
+systemctl status code-server
+clear
+systemctl status code-server
+systemctl stop code-server
+systemctl stop code-server.service 
+systemctl status code-server.service 
+ps -ef | grep code
+kill -9 1524
+
+ps -ef | grep code
+clear
+ps -ef | grep code
+systemctl status code-server.service 
+systemctl start code-server.service 
+systemctl status code-server.service 
+ps -ef | grep code
+systemctl status code-server.service 
+systemctl stop code-server.service 
+systemctl status code-server.service 
+ll
+vi code-server.service 
+systemctl daemon-reload
+systemctl status code-server.service 
+systemctl stop code-server.service 
+ps -ef | grep code
+clear
+ps -ef | grep code
+systemctl status code-server.service 
+systemctl stop code-server.service 
+systemctl status code-server.service 
+systemctl start code-server.service 
+systemctl status code-server.service 
+reboot
+systemctl status code-server.service 
+systemctl is-enabled code-server.service 
+systemctl enable code-server.service 
+ll /etc/systemd/system/multi-user.target.wants/code
+ll /etc/systemd/system/multi-user.target.wants/
+ll /etc/systemd/system/multi-user.target.wants/code*
+systemctl disable codeserver.service 
+ll /etc/systemd/system/multi-user.target.wants/code*
+clear
+ll /etc/systemd/system/multi-user.target.wants/code*
+systemctl status code-server.service 
+systemctl start code-server.service 
+systemctl status code-server.service 
+rm /opt/codeserver.sh 
+ll /opt/
+pwd
+ll
+ll code-server2.1688-vsc1.39.2-linux-x86_64
+ll
+cd
+systemctl status code-server.service 
+journalctl -f
+date
+journalctl -f
+cd
+journalctl -f
+history
+exit
